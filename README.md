@@ -26,31 +26,6 @@ Scanner de portas para Windows com interface gráfica moderna, desenvolvido em *
 | Avalonia Fluent Theme | 11.3.11 | Base do tema visual |
 | Avalonia DataGrid | 11.3.11 | Tabela de resultados |
 
-## 📁 Estrutura do Projeto
-
-```
-PORTy Scan/
-├── Models/
-│   ├── Enums.cs              # ScanProtocol e PortStatus
-│   ├── ScanConfiguration.cs  # Configurações do scan
-│   └── ScanResult.cs         # Resultado e progresso
-├── Services/
-│   ├── PortScannerService.cs # Motor de scan TCP/UDP + DNS reverso
-│   └── ServiceResolver.cs    # Mapeamento porta → serviço
-├── ViewModels/
-│   └── MainViewModel.cs      # Lógica da UI, comandos e exportação
-├── Views/
-│   ├── MainWindow.axaml      # Layout da interface
-│   └── MainWindow.axaml.cs   # Code-behind
-├── Assets/
-│   └── icon.ico              # Ícone da aplicação
-├── App.axaml                 # Configuração do app e temas
-├── App.axaml.cs              # Inicialização
-├── Program.cs                # Entry point
-├── Styles.axaml              # Tema dark customizado
-├── PortScanner.csproj        # Configuração do projeto
-└── app.manifest              # Manifesto Windows (DPI awareness)
-```
 
 ## 📖 Como Usar
 
