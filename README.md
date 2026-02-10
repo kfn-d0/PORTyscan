@@ -2,6 +2,8 @@
 
 Scanner de portas para Windows com interface gráfica moderna, desenvolvido em **C#** com **.NET 9** e **WPF** (Windows Presentation Foundation).
 
+<img width="1920" height="1036" alt="img1" src="https://github.com/user-attachments/assets/b3085e85-ef3f-43f4-a325-a7ab8c57f7c2" />
+
 ## ✨ Funcionalidades
 
 - **Scan TCP e UDP** com detecção de status (Open, Closed, Filtered, Open|Filtered)
