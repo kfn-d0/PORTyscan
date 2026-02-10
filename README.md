@@ -15,7 +15,6 @@ Scanner de portas para Windows com interface gráfica moderna, desenvolvido em *
 - **Cancelamento** — Interrompe o scan a qualquer momento, mantendo resultados parciais
 - **Exportação CSV** — Tabela com Host, Hostname, Port, Protocol, Status, Service, Timestamp
 - **Exportação HTML** — Relatório estilizado com tema dark, cards de estatísticas e tabela
-- **Tema dark** — Interface inspirada no GitHub com paleta de cores profissional
 
 ## 🛠️ Tecnologias
 
