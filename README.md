@@ -53,8 +53,33 @@ PORTy Scan/
 └── app.manifest              # Manifesto Windows (DPI awareness)
 ```
 
+## 📖 Como Usar
+
+1. **Target** — Insira o IP, hostname ou range. Exemplos:
+   - `192.168.1.1`
+   - `192.168.1.0/24`
+   - `192.168.1.1-254`
+   - `google.com`
+   - `192.168.1.1, 10.0.0.1`
+
+2. **Protocol** — Selecione TCP (recomendado), UDP ou ambos
+
+3. **Port Preset** — Escolha um preset ou selecione "Custom" para portas específicas
+   - Formato custom: `80,443,8080-8090`
+
+4. **Threads/Timeout** — Ajuste o paralelismo e timeout com os sliders
+
+5. **Start Scan** — Inicia o scan com progresso em tempo real
+
+6. **Export** — Exporte os resultados como CSV ou HTML (salvo no Desktop)
+
+
 ## 🚀 Como Executar
 
 ### Pré-requisitos
 
 - [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
+
+- ## ⚠️ Aviso Legal
+
+Esta ferramenta é destinada **exclusivamente para uso em redes e sistemas que você tem autorização para testar**. O uso não autorizado de scanner de portas pode violar leis e regulamentos. O autor não se responsabiliza pelo uso indevido desta ferramenta.
