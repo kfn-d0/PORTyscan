@@ -74,12 +74,11 @@ PORTy Scan/
 6. **Export** — Exporte os resultados como CSV ou HTML (salvo no Desktop)
 
 
-## 🚀 Como Executar
-
 ### Pré-requisitos
 
 - [.NET 9.0 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 
 - ## ⚠️ Aviso Legal
 
-Esta ferramenta é destinada **exclusivamente para uso em redes e sistemas que você tem autorização para testar**. O uso não autorizado de scanner de portas pode violar leis e regulamentos. O autor não se responsabiliza pelo uso indevido desta ferramenta.
+Esta ferramenta é destinada **exclusivamente para uso em redes e sistemas que você tem autorização para testar**. 
+O uso não autorizado de scanner de portas pode violar leis e regulamentos. O autor não se responsabiliza pelo uso indevido desta ferramenta.
