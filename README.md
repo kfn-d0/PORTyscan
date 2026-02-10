@@ -1,6 +1,6 @@
-# PORTyscan
+# 🔍 PORTy Scan
 
-Scanner de portas para Windows com interface gráfica moderna, desenvolvido em **C#** com **.NET 9** e **Avalonia UI**.
+Scanner de portas para Windows com interface gráfica moderna, desenvolvido em **C#** com **.NET 9** e **WPF** (Windows Presentation Foundation).
 
 ## ✨ Funcionalidades
 
@@ -15,16 +15,6 @@ Scanner de portas para Windows com interface gráfica moderna, desenvolvido em *
 - **Cancelamento** — Interrompe o scan a qualquer momento, mantendo resultados parciais
 - **Exportação CSV** — Tabela com Host, Hostname, Port, Protocol, Status, Service, Timestamp
 - **Exportação HTML** — Relatório estilizado com tema dark, cards de estatísticas e tabela
-
-## 🛠️ Tecnologias
-
-| Tecnologia | Versão | Finalidade |
-|---|---|---|
-| .NET | 9.0 | Runtime |
-| Avalonia UI | 11.3.11 | Framework de interface gráfica |
-| CommunityToolkit.Mvvm | 8.4.0 | Padrão MVVM com source generators |
-| Avalonia Fluent Theme | 11.3.11 | Base do tema visual |
-| Avalonia DataGrid | 11.3.11 | Tabela de resultados |
 
 
 ## 📖 Como Usar
